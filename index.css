@@ -1,0 +1,31 @@
+body{
+    background-color:skyblue;
+}
+div{
+    margin: 60px auto;
+    border: 2px solid grey;
+    width: 400px;
+    height: 250px;
+    background-color: white;
+}
+div button{
+    background-color: brown;
+    color: white;
+}
+div li{
+    border: 2px solid grey;
+    padding: 20px;
+    margin: 10px auto;
+    border-spacing: 10px;
+    
+}
+#circle{
+      border-radius: 138px;
+    width: 244px;
+    text-decoration: transparent;
+
+}
+#circle input{
+      height: 50px;
+    margin: 84px 40px;
+}
